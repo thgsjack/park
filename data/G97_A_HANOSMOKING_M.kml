@@ -1,0 +1,3113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="G97_A_HANOSMOKING_M" id="G97_A_HANOSMOKING_M">
+	<SimpleField name="DISTRICT" type="string"></SimpleField>
+	<SimpleField name="SITE" type="string"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="X" type="string"></SimpleField>
+	<SimpleField name="Y" type="string"></SimpleField>
+</Schema>
+<Folder><name>G97_A_HANOSMOKING_M</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">健康國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">延壽街168號</SimpleData>
+		<SimpleData name="X">306795.973</SimpleData>
+		<SimpleData name="Y">2772167.329</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.562923061968,25.0566221879329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">介壽國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">延壽街401號</SimpleData>
+		<SimpleData name="X">306150.952</SimpleData>
+		<SimpleData name="Y">2772140.7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.556529206127,25.0564058775643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">民生國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">敦化北路199巷18號</SimpleData>
+		<SimpleData name="X">305698.403</SimpleData>
+		<SimpleData name="Y">2772150.264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55204440679,25.0565089597948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">松山運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">敦化北路1號</SimpleData>
+		<SimpleData name="X">305510.029</SimpleData>
+		<SimpleData name="Y">2771310.006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.550143579857,25.0489301220274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">臺北市政府體育局所屬行政大樓之前方戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">南京東路4段6號</SimpleData>
+		<SimpleData name="X">305616.466</SimpleData>
+		<SimpleData name="Y">2771585.099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.551209512704,25.051409724443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">臺北體育館之前方戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">南京東路4段6號</SimpleData>
+		<SimpleData name="X">305616.466</SimpleData>
+		<SimpleData name="Y">2771585.099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.551209512704,25.051409724443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">臺北網球場之前方戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">南京東路4段6號</SimpleData>
+		<SimpleData name="X">305616.466</SimpleData>
+		<SimpleData name="Y">2771585.099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.551209512704,25.051409724443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">民生副中心大樓周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">敦化北路199巷5號</SimpleData>
+		<SimpleData name="X">305646.303</SimpleData>
+		<SimpleData name="Y">2772203.682</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.551530204583,25.0569931302706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">西松高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">健康路325巷7號</SimpleData>
+		<SimpleData name="X">307217.76</SimpleData>
+		<SimpleData name="Y">2772052.671</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.567098603342,25.0555711667458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">西松國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">三民路5號</SimpleData>
+		<SimpleData name="X">306867.778</SimpleData>
+		<SimpleData name="Y">2771677.599</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.563614497335,25.052198266203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">臺北市松山區民生社區中心外廣場</SimpleData>
+		<SimpleData name="ADDRESS">民生東路5段163-1號</SimpleData>
+		<SimpleData name="X">306793.184</SimpleData>
+		<SimpleData name="Y">2772462.584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.562907597059,25.059287817828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">中崙高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">八德路4段101號</SimpleData>
+		<SimpleData name="X">306612.555</SimpleData>
+		<SimpleData name="Y">2771289.569</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.561069141751,25.0487047517118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">中山國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">復興北路361巷7號</SimpleData>
+		<SimpleData name="X">305039.595</SimpleData>
+		<SimpleData name="Y">2772594.065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.545532726676,25.0605396779087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">民生國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">新東街30巷1號</SimpleData>
+		<SimpleData name="X">307239.025</SimpleData>
+		<SimpleData name="Y">2772524.234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.567328957858,25.0598275704066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">敦化國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">南京東路3段300號</SimpleData>
+		<SimpleData name="X">305170.756</SimpleData>
+		<SimpleData name="Y">2771595.928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.546792716316,25.0515238138943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">松山國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">八德路4段746號</SimpleData>
+		<SimpleData name="X">308447.761</SimpleData>
+		<SimpleData name="Y">2771574.274</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.579268644863,25.0512052210796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">敦化國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">敦化北路2號</SimpleData>
+		<SimpleData name="X">305348.213</SimpleData>
+		<SimpleData name="Y">2771328.524</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.548540671057,25.0491032312299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">民權國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">民權東路4段200號</SimpleData>
+		<SimpleData name="X">306730.148</SimpleData>
+		<SimpleData name="Y">2772819.03</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.562297523644,25.0625081335534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">民族國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">民生東路4段97巷7號</SimpleData>
+		<SimpleData name="X">305683.739</SimpleData>
+		<SimpleData name="Y">2772412.334</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.551909669434,25.0588754395705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">三民國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">民權東路5段1號</SimpleData>
+		<SimpleData name="X">306929.713</SimpleData>
+		<SimpleData name="Y">2772904.755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.564279040017,25.0632745440915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">松山區</SimpleData>
+		<SimpleData name="SITE">育達商職周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">寧安街12號</SimpleData>
+		<SimpleData name="X">305934.046</SimpleData>
+		<SimpleData name="Y">2771390.314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.554348993457,25.0496395125411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">信義廣場</SimpleData>
+		<SimpleData name="ADDRESS">信義路5段15號</SimpleData>
+		<SimpleData name="X">307207.877</SimpleData>
+		<SimpleData name="Y">2769568.712</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.566897539777,25.0331466449086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">松山文化創意園區</SimpleData>
+		<SimpleData name="ADDRESS">光復南路133號</SimpleData>
+		<SimpleData name="X">306298.186</SimpleData>
+		<SimpleData name="Y">2770757.994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5579319286,25.043917482176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">市府轉運站大樓周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">忠孝東路5段6號</SimpleData>
+		<SimpleData name="X">307028.227</SimpleData>
+		<SimpleData name="Y">2770423.081</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.565152720293,25.0408665796695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">市政大樓戲沙區周邊區域</SimpleData>
+		<SimpleData name="ADDRESS">市府路1號</SimpleData>
+		<SimpleData name="X">306891.633</SimpleData>
+		<SimpleData name="Y">2770052.15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.563783809554,25.0375229955748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">興雅國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">基隆路1段83巷9號</SimpleData>
+		<SimpleData name="X">307522.077</SimpleData>
+		<SimpleData name="Y">2771078.724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.570073975221,25.0467669513464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">三興國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">基隆路2段99號</SimpleData>
+		<SimpleData name="X">306314.257</SimpleData>
+		<SimpleData name="Y">2769185.483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.558026958259,25.0297203996514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">信義運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">松勤街100號</SimpleData>
+		<SimpleData name="X">307194.195</SimpleData>
+		<SimpleData name="Y">2769419.994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.566755795962,25.0318045508306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">松山高級工農職業學校周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">忠孝東路5段236巷15號</SimpleData>
+		<SimpleData name="X">307723.81</SimpleData>
+		<SimpleData name="Y">2770313.674</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572041133117,25.0398524880348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">松山家商</SimpleData>
+		<SimpleData name="ADDRESS">松山路655號</SimpleData>
+		<SimpleData name="X">308545.874</SimpleData>
+		<SimpleData name="Y">2769760.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.580163955171,25.034829626627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">永春高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">松山路654號</SimpleData>
+		<SimpleData name="X">308395.326</SimpleData>
+		<SimpleData name="Y">2769525.326</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.578662178307,25.032709612273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">松山高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">基隆路1段156號</SimpleData>
+		<SimpleData name="X">307094.687</SimpleData>
+		<SimpleData name="Y">2770756.94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.565825147381,25.0438781151652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">興雅國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">松德路168巷15號</SimpleData>
+		<SimpleData name="X">307757.04</SimpleData>
+		<SimpleData name="Y">2769935.55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572354586246,25.0364375603654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">永吉國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">松隆路161號</SimpleData>
+		<SimpleData name="X">307931.686</SimpleData>
+		<SimpleData name="Y">2771254.227</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.574140634084,25.0483357370258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">?公國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">福德街221巷15號</SimpleData>
+		<SimpleData name="X">309065.842</SimpleData>
+		<SimpleData name="Y">2770010.934</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.585327114959,25.0370675985428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">信義國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">松仁路158巷1號</SimpleData>
+		<SimpleData name="X">307314.383</SimpleData>
+		<SimpleData name="Y">2769066.61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.567932045729,25.0286096889626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">永春國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">松山路225巷48號</SimpleData>
+		<SimpleData name="X">308418.477</SimpleData>
+		<SimpleData name="Y">2770853.171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.578947852518,25.044696334605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">光復國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">光復南路271號</SimpleData>
+		<SimpleData name="X">306288.561</SimpleData>
+		<SimpleData name="Y">2770350.921</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.557819920599,25.0402428252791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">信義國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">松勤街60號</SimpleData>
+		<SimpleData name="X">306837.813</SimpleData>
+		<SimpleData name="Y">2769421.608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.563224492916,25.0318325464324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">吳興國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">松仁路226號</SimpleData>
+		<SimpleData name="X">307381.969</SimpleData>
+		<SimpleData name="Y">2768779.593</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.568589793853,25.026015966978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">福德國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">福德街253號</SimpleData>
+		<SimpleData name="X">309186.318</SimpleData>
+		<SimpleData name="Y">2770214.513</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.586529691714,25.0389007742614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">永吉國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">松山路287巷5號</SimpleData>
+		<SimpleData name="X">308500.39</SimpleData>
+		<SimpleData name="Y">2770704.007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.579753274758,25.0433465366125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">博愛國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">松仁路95巷20號</SimpleData>
+		<SimpleData name="X">307633.83</SimpleData>
+		<SimpleData name="Y">2769935.667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.571133665671,25.0364433141182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">香堤廣場</SimpleData>
+		<SimpleData name="ADDRESS">松高路、松智路、松壽路及松高路20巷間之區域</SimpleData>
+		<SimpleData name="X">307219.75</SimpleData>
+		<SimpleData name="Y">2770044.94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.567034953691,25.0374455328159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">信義區</SimpleData>
+		<SimpleData name="SITE">協和祐德高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">忠孝東路5段790巷5號</SimpleData>
+		<SimpleData name="X">308716.378</SimpleData>
+		<SimpleData name="Y">2770723.703</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.581894521228,25.0435159817407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">建國花市</SimpleData>
+		<SimpleData name="ADDRESS">建國高架橋下橋段-信義路與仁愛路間</SimpleData>
+		<SimpleData name="X">304280.23</SimpleData>
+		<SimpleData name="Y">2769861.06</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.537898767201,25.0358937737099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">建國玉市</SimpleData>
+		<SimpleData name="ADDRESS">建國高架橋下橋段-濟南路與仁愛路間</SimpleData>
+		<SimpleData name="X">304288.17</SimpleData>
+		<SimpleData name="Y">2770236.77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.537992242412,25.0392853752087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">藝文特區</SimpleData>
+		<SimpleData name="ADDRESS">建國高架橋下橋段-信義路與和平東路間</SimpleData>
+		<SimpleData name="X">304272.29</SimpleData>
+		<SimpleData name="Y">2769204.89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.537794261654,25.0299701929959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">第二殯儀館(除吸菸區外禁止吸菸)</SimpleData>
+		<SimpleData name="ADDRESS">辛亥路3段330號</SimpleData>
+		<SimpleData name="X">305814.875</SimpleData>
+		<SimpleData name="Y">2767414.958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.553007063078,25.0137547127151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">國立臺北科技大學周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">忠孝東路3段1號</SimpleData>
+		<SimpleData name="X">304036.865</SimpleData>
+		<SimpleData name="Y">2770560.156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.535514590141,25.0422138793969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">大安運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">辛亥路3段55號</SimpleData>
+		<SimpleData name="X">305104.714</SimpleData>
+		<SimpleData name="Y">2768148.126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.546000400764,25.0203997165705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">師大附中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">信義路3段143號</SimpleData>
+		<SimpleData name="X">304533.256</SimpleData>
+		<SimpleData name="Y">2769616.305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.540396401346,25.0336750442066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">古亭國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">羅斯福路3段201號</SimpleData>
+		<SimpleData name="X">303336.889</SimpleData>
+		<SimpleData name="Y">2768171.18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.528485544928,25.0206711424837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">國立臺灣科技大學周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">基隆路4段43號</SimpleData>
+		<SimpleData name="X">304565.02</SimpleData>
+		<SimpleData name="Y">2767408.618</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.540623839428,25.0137430112033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">和平高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">臥龍街100號</SimpleData>
+		<SimpleData name="X">305422.523</SimpleData>
+		<SimpleData name="Y">2768065.128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.549145937035,25.0196388178314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">大安高工周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">復興南路2段52號</SimpleData>
+		<SimpleData name="X">304827.366</SimpleData>
+		<SimpleData name="Y">2769428.868</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.543303323872,25.0319722492277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">仁愛國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">仁愛路4段130號</SimpleData>
+		<SimpleData name="X">305583.63</SimpleData>
+		<SimpleData name="Y">2770071.13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.550823025489,25.0377429566854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">大安國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">大安路2段63號</SimpleData>
+		<SimpleData name="X">305119.582</SimpleData>
+		<SimpleData name="Y">2769296.247</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54619358895,25.0307643425305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">芳和國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">臥龍街170號</SimpleData>
+		<SimpleData name="X">305540.008</SimpleData>
+		<SimpleData name="Y">2767961.941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55030582457,25.0187029476223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">龍門國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">建國南路2段269號</SimpleData>
+		<SimpleData name="X">304298.353</SimpleData>
+		<SimpleData name="Y">2768643.379</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.538030411738,25.0248999653579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">懷生國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">忠孝東路3段248巷30號</SimpleData>
+		<SimpleData name="X">304612.294</SimpleData>
+		<SimpleData name="Y">2770357.643</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.541208966374,25.0403649441883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">民族國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">羅斯福路4段113巷13號</SimpleData>
+		<SimpleData name="X">304385.284</SimpleData>
+		<SimpleData name="Y">2767124.439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.538831902656,25.0111839161847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">金華國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">新生南路2段32號</SimpleData>
+		<SimpleData name="X">303800.375</SimpleData>
+		<SimpleData name="Y">2769339.373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.533123374479,25.0312011454087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">龍安國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">新生南路3段33號</SimpleData>
+		<SimpleData name="X">303977.387</SimpleData>
+		<SimpleData name="Y">2768537.108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.534845982047,25.0239520318342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">大安國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">臥龍街129號</SimpleData>
+		<SimpleData name="X">305473.111</SimpleData>
+		<SimpleData name="Y">2768050.69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.549646582214,25.019506620242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">幸安國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">仁愛路3段22號</SimpleData>
+		<SimpleData name="X">303899.362</SimpleData>
+		<SimpleData name="Y">2770151.621</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.534135983621,25.0385305551463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">建安國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">大安路2段99號</SimpleData>
+		<SimpleData name="X">305115.815</SimpleData>
+		<SimpleData name="Y">2769143.651</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.546150163866,25.0293868530564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">仁愛國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">安和路1段60號</SimpleData>
+		<SimpleData name="X">305742.261</SimpleData>
+		<SimpleData name="Y">2769855.686</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.552386259559,25.0357921109805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">金華國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">愛國東路79巷11號</SimpleData>
+		<SimpleData name="X">303258.848</SimpleData>
+		<SimpleData name="Y">2769453.562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.527761818425,25.0322511900631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">新生國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">新生南路2段36號</SimpleData>
+		<SimpleData name="X">303850.294</SimpleData>
+		<SimpleData name="Y">2769179.839</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.533611789968,25.0297591049267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">公館國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">基隆路4段41巷68弄2號</SimpleData>
+		<SimpleData name="X">304791.848</SimpleData>
+		<SimpleData name="Y">2767262.707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.542865353741,25.0124175451825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">銘傳國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">羅斯福路4段21號</SimpleData>
+		<SimpleData name="X">304019.845</SimpleData>
+		<SimpleData name="Y">2767461.632</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.535224570835,25.0142411592676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">新民國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">辛亥路1段113號</SimpleData>
+		<SimpleData name="X">303677.036</SimpleData>
+		<SimpleData name="Y">2768362.266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.531863191761,25.0223842419729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">立人國際中小學周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">安和路2段99號</SimpleData>
+		<SimpleData name="X">305695.128</SimpleData>
+		<SimpleData name="Y">2769192.048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.551892401137,25.0298025741606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">金甌女中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">杭州南路2段1號</SimpleData>
+		<SimpleData name="X">302902.219</SimpleData>
+		<SimpleData name="Y">2769748.879</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.524239295661,25.0349298077107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">復興高中（附設國民中小學）周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">敦化南路1段262號</SimpleData>
+		<SimpleData name="X">305342.451</SimpleData>
+		<SimpleData name="Y">2770245.747</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.548440085019,25.0393282249865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">延平高中（附設國民中學）周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">建國南路1段275號</SimpleData>
+		<SimpleData name="X">304326.219</SimpleData>
+		<SimpleData name="Y">2769910.43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.538356432177,25.0363378327888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">開平餐飲職業學校周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">復興南路2段148巷24號</SimpleData>
+		<SimpleData name="X">304737.704</SimpleData>
+		<SimpleData name="Y">2769047.483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.542399726449,25.0285323736944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">東方工商周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">信義路4段186巷8號</SimpleData>
+		<SimpleData name="X">305653.61</SimpleData>
+		<SimpleData name="Y">2769451.324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.551491470534,25.0321448254453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大安區</SimpleData>
+		<SimpleData name="SITE">國立臺北教育大學周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">和平東路2段134號</SimpleData>
+		<SimpleData name="X">305006.34</SimpleData>
+		<SimpleData name="Y">2768598.57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.545043663385,25.0244698766777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">林安泰古厝民俗文物館</SimpleData>
+		<SimpleData name="ADDRESS">濱江街5號</SimpleData>
+		<SimpleData name="X">303504.339</SimpleData>
+		<SimpleData name="Y">2773829.478</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.530364362524,25.0717480002437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">實踐大學周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">大直街70號</SimpleData>
+		<SimpleData name="X">305100.051</SimpleData>
+		<SimpleData name="Y">2775147.161</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.546234154813,25.0835865276847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">第一殯儀館(除吸菸區外禁止吸菸)</SimpleData>
+		<SimpleData name="ADDRESS">民權東路2段145號</SimpleData>
+		<SimpleData name="X">304115.274</SimpleData>
+		<SimpleData name="Y">2772818.734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.536380338476,25.0626013421546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">長安國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">吉林路15號</SimpleData>
+		<SimpleData name="X">303495.621</SimpleData>
+		<SimpleData name="Y">2771393.808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.530183315514,25.0497592736617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">中山運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">中山北路2段44巷2號</SimpleData>
+		<SimpleData name="X">302623.599</SimpleData>
+		<SimpleData name="Y">2771953.516</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.521562564509,25.0548428796843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">大同大學周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中山北路3段40號</SimpleData>
+		<SimpleData name="X">302683.752</SimpleData>
+		<SimpleData name="Y">2773282.652</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.522209589944,25.0668401345906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">五常國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">五常街16號</SimpleData>
+		<SimpleData name="X">304703.008</SimpleData>
+		<SimpleData name="Y">2772997.726</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.542212753968,25.0641961073007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">臺北市立圖書館大直分館周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">大直街25號</SimpleData>
+		<SimpleData name="X">305139.093</SimpleData>
+		<SimpleData name="Y">2774955.614</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54661350387,25.0818558412699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">中山女高</SimpleData>
+		<SimpleData name="ADDRESS">長安東路2段141號</SimpleData>
+		<SimpleData name="X">304200.258</SimpleData>
+		<SimpleData name="Y">2771260.598</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.537161336485,25.0485315752407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">大直高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">北安路420號</SimpleData>
+		<SimpleData name="X">304760.529</SimpleData>
+		<SimpleData name="Y">2774685.606</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.542850047282,25.0794320166743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">大同高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">長春路167號</SimpleData>
+		<SimpleData name="X">303990.285</SimpleData>
+		<SimpleData name="Y">2771974.737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.535108422615,25.0549862781143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">長安國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">松江路70巷11號</SimpleData>
+		<SimpleData name="X">303671.474</SimpleData>
+		<SimpleData name="Y">2771356.169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.531924630375,25.0494132408339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">北安國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">明水路325號</SimpleData>
+		<SimpleData name="X">304637.619</SimpleData>
+		<SimpleData name="Y">2774502.997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.541624410218,25.0777878955356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">濱江國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">樂群2路262號</SimpleData>
+		<SimpleData name="X">306562.765</SimpleData>
+		<SimpleData name="Y">2774711.293</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.560716298059,25.0795974961055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">五常國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">復興北路430巷1號</SimpleData>
+		<SimpleData name="X">304792.025</SimpleData>
+		<SimpleData name="Y">2772919.854</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.543091954212,25.0634898623409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">新興國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">林森北路511號</SimpleData>
+		<SimpleData name="X">303046.872</SimpleData>
+		<SimpleData name="Y">2772754.974</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.525788439191,25.0620635956762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">中山國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">民權東路1段69號</SimpleData>
+		<SimpleData name="X">303099.586</SimpleData>
+		<SimpleData name="Y">2772849.396</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.526314552618,25.0629141794196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">中正國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">龍江路62號</SimpleData>
+		<SimpleData name="X">304512.372</SimpleData>
+		<SimpleData name="Y">2771493.418</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.540263701889,25.0506222383094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">濱江國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">樂群二路266巷99號</SimpleData>
+		<SimpleData name="X">306661.418</SimpleData>
+		<SimpleData name="Y">2774458.61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.561683816712,25.0773126136441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">大直國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">大直街2號</SimpleData>
+		<SimpleData name="X">305121.458</SimpleData>
+		<SimpleData name="Y">2774804.736</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.546432641326,25.0804943778352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">大佳國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">濱江街107號</SimpleData>
+		<SimpleData name="X">304067.552</SimpleData>
+		<SimpleData name="Y">2774003.994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.535953904195,25.0733034627821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">吉林國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">長春路116號</SimpleData>
+		<SimpleData name="X">303437.736</SimpleData>
+		<SimpleData name="Y">2771942.789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.529630945978,25.0547174830999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">懷生國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">安東街16巷2號</SimpleData>
+		<SimpleData name="X">304664.182</SimpleData>
+		<SimpleData name="Y">2770901.955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.541744748573,25.0452770784918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">永安國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">明水路397巷19弄1號</SimpleData>
+		<SimpleData name="X">305420.745</SimpleData>
+		<SimpleData name="Y">2774611.124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.549391639051,25.0787355210735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">長春國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">長春路165號</SimpleData>
+		<SimpleData name="X">303866.649</SimpleData>
+		<SimpleData name="Y">2771969.993</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.533882898195,25.0549478593416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">中興高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">朱崙街42號</SimpleData>
+		<SimpleData name="X">304681.529</SimpleData>
+		<SimpleData name="Y">2771413.144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.541936945497,25.0498914245322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中山區</SimpleData>
+		<SimpleData name="SITE">大同高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中山北路3段40號</SimpleData>
+		<SimpleData name="X">302683.752</SimpleData>
+		<SimpleData name="Y">2773282.652</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.522209589944,25.0668401345906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">河堤國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">汀州路2段段180號</SimpleData>
+		<SimpleData name="X">302746.361</SimpleData>
+		<SimpleData name="Y">2768455.906</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.522645409601,25.0232623264042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">成功高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">濟南路1段71號</SimpleData>
+		<SimpleData name="X">302855.81</SimpleData>
+		<SimpleData name="Y">2770575.537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.523811112914,25.0423944619806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">國立臺北商業技術學院周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">濟南路1段321號</SimpleData>
+		<SimpleData name="X">303029.639</SimpleData>
+		<SimpleData name="Y">2770526.642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.525531852936,25.0419469572503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">中正運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">信義路1段1號</SimpleData>
+		<SimpleData name="X">302389.656</SimpleData>
+		<SimpleData name="Y">2770115.322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.519174096804,25.0382558731165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">忠孝國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">忠孝東路2段101號</SimpleData>
+		<SimpleData name="X">303656.731</SimpleData>
+		<SimpleData name="Y">2770627.867</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.531750161659,25.0428387000441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">螢橋國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">汀州路3段4號</SimpleData>
+		<SimpleData name="X">303134.469</SimpleData>
+		<SimpleData name="Y">2767992.173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.526473051911,25.0190621874704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">青少年發展處所屬周邊戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">仁愛路1段17號</SimpleData>
+		<SimpleData name="X">302698.77</SimpleData>
+		<SimpleData name="Y">2770200.114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.522240514283,25.0390106378697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">北一女周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">重慶南路1段165號</SimpleData>
+		<SimpleData name="X">301767.971</SimpleData>
+		<SimpleData name="Y">2770151.783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.513014851465,25.0386064387841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">建國高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">南海路56號</SimpleData>
+		<SimpleData name="X">301686.564</SimpleData>
+		<SimpleData name="Y">2769332.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.512177418929,25.0312100444812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">古亭國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中華路2段465號</SimpleData>
+		<SimpleData name="X">301532.448</SimpleData>
+		<SimpleData name="Y">2768606.466</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.510623171629,25.0246633809844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">南門國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">廣州街6號</SimpleData>
+		<SimpleData name="X">301373.682</SimpleData>
+		<SimpleData name="Y">2769776.29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.509093621004,25.0352299337815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">弘道國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">公園路21號</SimpleData>
+		<SimpleData name="X">301998.463</SimpleData>
+		<SimpleData name="Y">2770035.027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515294524908,25.0375444658981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">中正國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">愛國東路158號</SimpleData>
+		<SimpleData name="X">302685.477</SimpleData>
+		<SimpleData name="Y">2769460.382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.522080518713,25.0323328277511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">螢橋國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">詔安街29號</SimpleData>
+		<SimpleData name="X">301918.182</SimpleData>
+		<SimpleData name="Y">2768637.198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.51444635657,25.0249276513776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">忠義國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中華路2段307巷17號</SimpleData>
+		<SimpleData name="X">301090.69</SimpleData>
+		<SimpleData name="Y">2769150.277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.506266171032,25.0295878753095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">國語實小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">南海路58號</SimpleData>
+		<SimpleData name="X">301570.165</SimpleData>
+		<SimpleData name="Y">2769299.721</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.511022808574,25.0309207948083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">東門國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">仁愛路1段2號</SimpleData>
+		<SimpleData name="X">302562.358</SimpleData>
+		<SimpleData name="Y">2770163.226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52088732008,25.0386823592948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">市大附小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">公園路29號</SimpleData>
+		<SimpleData name="X">301996.834</SimpleData>
+		<SimpleData name="Y">2769900.784</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515273319238,25.0363325799497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">開南商工周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">濟南路1段6號</SimpleData>
+		<SimpleData name="X">302656.619</SimpleData>
+		<SimpleData name="Y">2770577.309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.521837224716,25.0424174056168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">強恕高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">汀州路2段143號</SimpleData>
+		<SimpleData name="X">302495.669</SimpleData>
+		<SimpleData name="Y">2768632.299</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.520168182457,25.024863510892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">南華高中職業進修學校周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">汀州路3段58號</SimpleData>
+		<SimpleData name="X">303622.041</SimpleData>
+		<SimpleData name="Y">2767598.057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.531288592781,25.0154869346663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">中正區</SimpleData>
+		<SimpleData name="SITE">光華數位新天地所屬1樓周邊戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">市民大道3段8號</SimpleData>
+		<SimpleData name="X">303691.072</SimpleData>
+		<SimpleData name="Y">2770891.318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.532100741019,25.0452159010021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">延平國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">昌吉街97號</SimpleData>
+		<SimpleData name="X">301694.773</SimpleData>
+		<SimpleData name="Y">2773189.695</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.512403496698,25.0660350789011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">民權國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">重慶北路3段1號</SimpleData>
+		<SimpleData name="X">301848.239</SimpleData>
+		<SimpleData name="Y">2772916.531</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.513914329457,25.0635637135822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">重慶國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">敦煌路19號</SimpleData>
+		<SimpleData name="X">302245.687</SimpleData>
+		<SimpleData name="Y">2774287.881</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.517905726823,25.0759304755647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">大同運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">大龍街51號</SimpleData>
+		<SimpleData name="X">302068.517</SimpleData>
+		<SimpleData name="Y">2773053.345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.516102806959,25.064791289199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">寧夏夜市</SimpleData>
+		<SimpleData name="ADDRESS">寧夏路58號</SimpleData>
+		<SimpleData name="X">301996.684</SimpleData>
+		<SimpleData name="Y">2772150.994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.51535674507,25.056647389728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">臺北市5個捷運車站出口周邊戶外區域-捷運中山地下街R1出口旁</SimpleData>
+		<SimpleData name="ADDRESS">市民大道一段209號</SimpleData>
+		<SimpleData name="X">302301.979</SimpleData>
+		<SimpleData name="Y">2771293.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.518349959687,25.0488927401169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">臺北市5個捷運車站出口周邊戶外區域-捷運中山地下街R1出口旁空地</SimpleData>
+		<SimpleData name="ADDRESS">市民大道一段209號</SimpleData>
+		<SimpleData name="X">302301.979</SimpleData>
+		<SimpleData name="Y">2771293.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.518349959687,25.0488927401169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">明倫高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">承德路3段336號</SimpleData>
+		<SimpleData name="X">302445.982</SimpleData>
+		<SimpleData name="Y">2774244.584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.519889514117,25.0755326530218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">成淵高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">承德路2段235號</SimpleData>
+		<SimpleData name="X">302314.607</SimpleData>
+		<SimpleData name="Y">2772664.784</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.518527205628,25.0612748875318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">建成國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">長安西路37-1號</SimpleData>
+		<SimpleData name="X">302437.304</SimpleData>
+		<SimpleData name="Y">2771457.037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.519697319452,25.0503671664632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">忠孝國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">西寧北路32號</SimpleData>
+		<SimpleData name="X">301283.609</SimpleData>
+		<SimpleData name="Y">2771548.608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.508267009841,25.051233428568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">蘭州國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">大龍街187巷1號</SimpleData>
+		<SimpleData name="X">302133.364</SimpleData>
+		<SimpleData name="Y">2773555.419</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.516764566009,25.0693217438316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">蓬萊國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">寧夏路35號</SimpleData>
+		<SimpleData name="X">302018.059</SimpleData>
+		<SimpleData name="Y">2772138.474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515568120271,25.0565336245595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">日新國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">太原路151號</SimpleData>
+		<SimpleData name="X">302083.628</SimpleData>
+		<SimpleData name="Y">2771894.062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.516208732633,25.0543248285346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">太平國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">延平北路2段239號</SimpleData>
+		<SimpleData name="X">301579.949</SimpleData>
+		<SimpleData name="Y">2772512.009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.511239995998,25.0599208902318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">永樂國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">延平北路2段266號</SimpleData>
+		<SimpleData name="X">301568.497</SimpleData>
+		<SimpleData name="Y">2772708.331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.511133844775,25.061693665747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">雙蓮國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">錦西街51號</SimpleData>
+		<SimpleData name="X">302127.925</SimpleData>
+		<SimpleData name="Y">2772535.974</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.516672050643,25.0601184479499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">大同國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">大龍街51號</SimpleData>
+		<SimpleData name="X">302068.517</SimpleData>
+		<SimpleData name="Y">2773053.345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.516102806959,25.064791289199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">大龍國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">哈密街47號</SimpleData>
+		<SimpleData name="X">302127.204</SimpleData>
+		<SimpleData name="Y">2774007.664</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.516720639065,25.0734047912961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">大橋國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">重慶北路3段2號</SimpleData>
+		<SimpleData name="X">301793.894</SimpleData>
+		<SimpleData name="Y">2772996.458</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.51337869168,25.0642871531134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">啟聰學校周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">重慶北路3段320號</SimpleData>
+		<SimpleData name="X">301810.742</SimpleData>
+		<SimpleData name="Y">2774149.685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.513589098138,25.0746978328551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">大同區</SimpleData>
+		<SimpleData name="SITE">靜修女中（附設國民中學）周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">寧夏路59號</SimpleData>
+		<SimpleData name="X">301997.438</SimpleData>
+		<SimpleData name="Y">2772290.922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515369501328,25.0579106262606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">華江國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">環河南路2段250巷42弄2號</SimpleData>
+		<SimpleData name="X">299568.095</SimpleData>
+		<SimpleData name="Y">2769641.93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.491196639605,25.0340771474731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">萬華運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">西寧南路6之1號</SimpleData>
+		<SimpleData name="X">301171.658</SimpleData>
+		<SimpleData name="Y">2771134.447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.50714212551,25.047498188844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">雙園國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">莒光路315號</SimpleData>
+		<SimpleData name="X">300179.262</SimpleData>
+		<SimpleData name="Y">2769298.05</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.497240326391,25.0309524579431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">華江高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">西藏路213號</SimpleData>
+		<SimpleData name="X">300072.102</SimpleData>
+		<SimpleData name="Y">2769028.941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.496168709194,25.0285264888078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">大理高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">長順街2號</SimpleData>
+		<SimpleData name="X">299579.654</SimpleData>
+		<SimpleData name="Y">2769289.117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.491298495445,25.0308915696114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">萬華國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">西藏路201號</SimpleData>
+		<SimpleData name="X">300327.513</SimpleData>
+		<SimpleData name="Y">2769099.966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.498702114684,25.0291592331226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">雙園國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">興義街2號</SimpleData>
+		<SimpleData name="X">299724.628</SimpleData>
+		<SimpleData name="Y">2768928.145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.492722026857,25.0276279545802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">龍山國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">南寧路46號</SimpleData>
+		<SimpleData name="X">300919.647</SimpleData>
+		<SimpleData name="Y">2769866.965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.504597794214,25.036063891463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">新和國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">西藏路125巷31號</SimpleData>
+		<SimpleData name="X">300796.35</SimpleData>
+		<SimpleData name="Y">2768752.411</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.503334943606,25.0260058471451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">東園國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">東園街195號</SimpleData>
+		<SimpleData name="X">300245.266</SimpleData>
+		<SimpleData name="Y">2768433.107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.497862852333,25.0231415565374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">大理國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">艋舺大道389號</SimpleData>
+		<SimpleData name="X">299834.62</SimpleData>
+		<SimpleData name="Y">2769322.095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49382614186,25.031180922418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">西園國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">東園街73巷65號</SimpleData>
+		<SimpleData name="X">300344.98</SimpleData>
+		<SimpleData name="Y">2768818.892</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.498864933103,25.0266211148093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">萬大國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">萬大路346號</SimpleData>
+		<SimpleData name="X">300394.944</SimpleData>
+		<SimpleData name="Y">2768415.674</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49934527839,25.0229791970847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">西門國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">成都路98號</SimpleData>
+		<SimpleData name="X">300809.939</SimpleData>
+		<SimpleData name="Y">2770661.396</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.50353993852,25.0432396895696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">老松國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">桂林路64號</SimpleData>
+		<SimpleData name="X">300733.591</SimpleData>
+		<SimpleData name="Y">2770087.735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.502762217838,25.0380632494687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">福星國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中華路1段66號</SimpleData>
+		<SimpleData name="X">301350.172</SimpleData>
+		<SimpleData name="Y">2771007.357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.508906516141,25.0463447743668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">龍山國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">和平西路3段235號</SimpleData>
+		<SimpleData name="X">300072.926</SimpleData>
+		<SimpleData name="Y">2769811.498</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.496205289547,25.0355913890416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">光仁國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">萬大路423巷15號</SimpleData>
+		<SimpleData name="X">300435.328</SimpleData>
+		<SimpleData name="Y">2768233.89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.499738771818,25.0213367045835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">萬華區</SimpleData>
+		<SimpleData name="SITE">立人高中（附設國民中學）周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">桂林路171號</SimpleData>
+		<SimpleData name="X">300097.553</SimpleData>
+		<SimpleData name="Y">2770161.251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.496462036972,25.0387481430676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">臺北市立動物園</SimpleData>
+		<SimpleData name="ADDRESS">新光路2段30號</SimpleData>
+		<SimpleData name="X">308670.477</SimpleData>
+		<SimpleData name="Y">2765763.63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.581228744078,24.998738767969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">文山運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">興隆路3段222號</SimpleData>
+		<SimpleData name="X">306497.355</SimpleData>
+		<SimpleData name="Y">2765565.877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55969309177,24.997036014182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">溪口國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">景福街225號</SimpleData>
+		<SimpleData name="X">304384.018</SimpleData>
+		<SimpleData name="Y">2765233.656</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.538744910216,24.9941140133339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">興隆國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">興隆路3段125巷6號</SimpleData>
+		<SimpleData name="X">306393.788</SimpleData>
+		<SimpleData name="Y">2765765.899</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.558675304905,24.9988456597617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">萬興國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">秀明路2段114號</SimpleData>
+		<SimpleData name="X">308209.671</SimpleData>
+		<SimpleData name="Y">2764841.694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.576625038609,24.990433359312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">木柵高工周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">木柵路4段77號</SimpleData>
+		<SimpleData name="X">307727.716</SimpleData>
+		<SimpleData name="Y">2765443.848</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.571876135152,24.9958879925451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">興華國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">興隆路3段125巷6號</SimpleData>
+		<SimpleData name="X">306393.788</SimpleData>
+		<SimpleData name="Y">2765765.899</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.558675304905,24.9988456597617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">臺北市5個捷運車站出口周邊戶外區域-捷運萬芳醫院站出口旁</SimpleData>
+		<SimpleData name="ADDRESS">興隆路3段113號</SimpleData>
+		<SimpleData name="X">306311.095</SimpleData>
+		<SimpleData name="Y">2765822.456</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.557858427734,24.9993593278646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">臺北市立動物園門口前廣場</SimpleData>
+		<SimpleData name="ADDRESS">新光路2段30號</SimpleData>
+		<SimpleData name="X">308670.477</SimpleData>
+		<SimpleData name="Y">2765763.63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.581228744078,24.998738767969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">世新大學及該校管理學院周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">木柵路1段17巷1號、木柵路1段111號</SimpleData>
+		<SimpleData name="X">304926.924</SimpleData>
+		<SimpleData name="Y">2764627.736</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54409883297,24.9886242065381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">景美高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">木新路3段312號</SimpleData>
+		<SimpleData name="X">306155.008</SimpleData>
+		<SimpleData name="Y">2763759.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.556228361164,24.9807417216437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">木柵國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">木柵路3段102巷12號</SimpleData>
+		<SimpleData name="X">307308.622</SimpleData>
+		<SimpleData name="Y">2764510.122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.56768584725,24.9874742631065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">景興國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">景興路46巷2號</SimpleData>
+		<SimpleData name="X">304948.5</SimpleData>
+		<SimpleData name="Y">2765465.872</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.544345880265,24.9961901022075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">景美國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">景中街27號</SimpleData>
+		<SimpleData name="X">304808.3</SimpleData>
+		<SimpleData name="Y">2765113.423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.542943061933,24.9930132739633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">興福國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">福興路80號</SimpleData>
+		<SimpleData name="X">305489.453</SimpleData>
+		<SimpleData name="Y">2766432.746</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.549743463603,25.004899303398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">實踐國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">辛亥路7段67號</SimpleData>
+		<SimpleData name="X">306003.326</SimpleData>
+		<SimpleData name="Y">2764057.426</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.554738034205,24.9834360954512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">景美國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">景文街108號</SimpleData>
+		<SimpleData name="X">304592.528</SimpleData>
+		<SimpleData name="Y">2764722.381</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.540790205433,24.9894907350838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">武功國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">興隆路1段68號</SimpleData>
+		<SimpleData name="X">304555.853</SimpleData>
+		<SimpleData name="Y">2766317.143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.540489890081,25.0038895395096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">興德國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">興隆路2段235號</SimpleData>
+		<SimpleData name="X">305604.425</SimpleData>
+		<SimpleData name="Y">2766075.903</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5508681028,25.0016735250805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">志清國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">景福街21巷5號</SimpleData>
+		<SimpleData name="X">304392.028</SimpleData>
+		<SimpleData name="Y">2765740.66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.538844216571,24.9986909510253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">景興國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">景華街150巷21號</SimpleData>
+		<SimpleData name="X">305338.179</SimpleData>
+		<SimpleData name="Y">2765455.924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.548205687786,24.9960861181368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">永建國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">試院路2號</SimpleData>
+		<SimpleData name="X">305528.893</SimpleData>
+		<SimpleData name="Y">2764516.889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.550057189577,24.9876015606534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">實踐國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">忠順街1段4號</SimpleData>
+		<SimpleData name="X">306288.477</SimpleData>
+		<SimpleData name="Y">2764084.046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.557563561165,24.9836658658477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">博嘉國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">木柵路4段159巷14之1號</SimpleData>
+		<SimpleData name="X">308121.954</SimpleData>
+		<SimpleData name="Y">2766131.559</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.575810409163,25.0020815338606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">指南國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">指南路3段38巷5-2號</SimpleData>
+		<SimpleData name="X">308926.785</SimpleData>
+		<SimpleData name="Y">2763290.957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.583662389008,24.9764057144955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">萬福國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">秀明路2段114號</SimpleData>
+		<SimpleData name="X">308209.671</SimpleData>
+		<SimpleData name="Y">2764841.694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.576625038609,24.990433359312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">辛亥國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">辛亥路4段103號</SimpleData>
+		<SimpleData name="X">306377.685</SimpleData>
+		<SimpleData name="Y">2766589.987</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.558549421453,25.0062860829136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">明道國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">木柵路2段138巷61號</SimpleData>
+		<SimpleData name="X">306796.286</SimpleData>
+		<SimpleData name="Y">2764491.526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.562610196054,24.9873256518787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">萬芳國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">萬和街1號</SimpleData>
+		<SimpleData name="X">307290.748</SimpleData>
+		<SimpleData name="Y">2766043.18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.567572360787,25.0013153010536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">力行國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">木新路3段155巷7號</SimpleData>
+		<SimpleData name="X">306636.679</SimpleData>
+		<SimpleData name="Y">2763781.52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5610001422,24.9809217095904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">木柵國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">木柵路3段191號</SimpleData>
+		<SimpleData name="X">307564.408</SimpleData>
+		<SimpleData name="Y">2764823.397</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.57023255191,24.990292806461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">文山特殊教育學校周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">秀明路1段169號</SimpleData>
+		<SimpleData name="X">307302.816</SimpleData>
+		<SimpleData name="Y">2764949.35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.567646546509,24.9914398110887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">中山國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">木柵路1段292號</SimpleData>
+		<SimpleData name="X">306161.585</SimpleData>
+		<SimpleData name="Y">2764599.481</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.556327623549,24.988323901998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">靜心中小學周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">興隆路2段46號</SimpleData>
+		<SimpleData name="X">305182.126</SimpleData>
+		<SimpleData name="Y">2765773.619</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.546672499263,24.9989599481083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">再興高中（附設國民中小學）周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">興隆路4段2號</SimpleData>
+		<SimpleData name="X">306441.729</SimpleData>
+		<SimpleData name="Y">2764835.846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.559112233138,24.9904473966595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">大誠高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">秀明路2段175號</SimpleData>
+		<SimpleData name="X">308370.2</SimpleData>
+		<SimpleData name="Y">2764902.911</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.578217760646,24.9909798517586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">滬江高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">羅斯福路6段336號</SimpleData>
+		<SimpleData name="X">304428.422</SimpleData>
+		<SimpleData name="Y">2764753.909</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.539165879964,24.989781268408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">文山區</SimpleData>
+		<SimpleData name="SITE">景文高中（附設國民中學）周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">保儀路127號</SimpleData>
+		<SimpleData name="X">307280.114</SimpleData>
+		<SimpleData name="Y">2764276.821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.567393797572,24.9853691092421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">育成高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">重陽路366號</SimpleData>
+		<SimpleData name="X">311460.967</SimpleData>
+		<SimpleData name="Y">2772415.926</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.609168420819,25.0586840315661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">南港高工周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">興中路29號</SimpleData>
+		<SimpleData name="X">311262.716</SimpleData>
+		<SimpleData name="Y">2772154.802</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.60719193328,25.0563347022841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">南港運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">玉成街69號</SimpleData>
+		<SimpleData name="X">308747.083</SimpleData>
+		<SimpleData name="Y">2771066.207</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.58221340451,25.0466068677615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">南港國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">惠民街67號</SimpleData>
+		<SimpleData name="X">311588.47</SimpleData>
+		<SimpleData name="Y">2772283.467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.610426182155,25.0574830295308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">誠正國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">富康街1巷24號</SimpleData>
+		<SimpleData name="X">312429.507</SimpleData>
+		<SimpleData name="Y">2771913.893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.618744878585,25.0541120991773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">南港高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">向陽路21號</SimpleData>
+		<SimpleData name="X">310039.314</SimpleData>
+		<SimpleData name="Y">2771722.691</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.595048139082,25.0524827555604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">成德國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">東新街108巷23號</SimpleData>
+		<SimpleData name="X">309311.709</SimpleData>
+		<SimpleData name="Y">2770897.498</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.587801641814,25.0450617535542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">舊莊國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">舊莊街1段100號</SimpleData>
+		<SimpleData name="X">312520.323</SimpleData>
+		<SimpleData name="Y">2770380.929</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.619575366879,25.0402690620443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">玉成國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">向陽路31號</SimpleData>
+		<SimpleData name="X">310009.401</SimpleData>
+		<SimpleData name="Y">2771847.926</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.594757140592,25.0536145431642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">成德國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">東新街65號</SimpleData>
+		<SimpleData name="X">309217.245</SimpleData>
+		<SimpleData name="Y">2771099.877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.586874203377,25.046892501946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">修德國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">東新街118巷86號</SimpleData>
+		<SimpleData name="X">309496.863</SimpleData>
+		<SimpleData name="Y">2770951.858</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.589638858968,25.0455452362722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">東新國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">興南街62號</SimpleData>
+		<SimpleData name="X">310743.252</SimpleData>
+		<SimpleData name="Y">2772136.716</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.60204280771,25.0561923844807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">南港區</SimpleData>
+		<SimpleData name="SITE">胡適國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">舊莊街1段1號</SimpleData>
+		<SimpleData name="X">312280.59</SimpleData>
+		<SimpleData name="Y">2770615.738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.617210335789,25.0423987592845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">大湖國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">大湖山莊街170號</SimpleData>
+		<SimpleData name="X">310557.81</SimpleData>
+		<SimpleData name="Y">2775677.476</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.600360744917,25.0881650868769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">內湖運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">洲子街12號</SimpleData>
+		<SimpleData name="X">308008.605</SimpleData>
+		<SimpleData name="Y">2774564.907</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.575042419526,25.0782211086428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">康寧大學周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">康寧路3段75巷137號</SimpleData>
+		<SimpleData name="X">311542.684</SimpleData>
+		<SimpleData name="Y">2774244.133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.610060062034,25.0751853712456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">財團法人公共電視文化事業基金會所屬A、B、C大樓周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">康寧路3段75巷50號</SimpleData>
+		<SimpleData name="X">311508.21</SimpleData>
+		<SimpleData name="Y">2774181.859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.609715559594,25.0746245794463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">三民國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">民權東路6段45號</SimpleData>
+		<SimpleData name="X">309145.358</SimpleData>
+		<SimpleData name="Y">2773566.894</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.586267751751,25.0691671433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">麗山高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">環山路2段100號</SimpleData>
+		<SimpleData name="X">308296.886</SimpleData>
+		<SimpleData name="Y">2775218.669</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.577927760359,25.0841120570397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">內湖高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">文德路218號</SimpleData>
+		<SimpleData name="X">309166.559</SimpleData>
+		<SimpleData name="Y">2774589.995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.58652188868,25.0784026828514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">內湖國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">陽光街1號</SimpleData>
+		<SimpleData name="X">309389.25</SimpleData>
+		<SimpleData name="Y">2774434.949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.588722653348,25.0769942173411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">方濟中學周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">成功路3段61號</SimpleData>
+		<SimpleData name="X">309536.401</SimpleData>
+		<SimpleData name="Y">2774471.731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.590182884647,25.0773204854232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">南湖高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">康寧路3段220號</SimpleData>
+		<SimpleData name="X">311654.724</SimpleData>
+		<SimpleData name="Y">2773327.132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.611129557632,25.0669023189065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">內湖高工周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">內湖路1段520號</SimpleData>
+		<SimpleData name="X">308048.78</SimpleData>
+		<SimpleData name="Y">2774732.985</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.575447753591,25.0797369446717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">麗山國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">內湖路1段629巷42號</SimpleData>
+		<SimpleData name="X">308021.063</SimpleData>
+		<SimpleData name="Y">2774954.985</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.575182365963,25.0817421874469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">西湖國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">環山路1段27號</SimpleData>
+		<SimpleData name="X">307059.982</SimpleData>
+		<SimpleData name="Y">2775404.449</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.565673864896,25.0858364948278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">東湖國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">康樂街131號</SimpleData>
+		<SimpleData name="X">312496.887</SimpleData>
+		<SimpleData name="Y">2773925.335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.619503968201,25.0722681633795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">明湖國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">康寧路3段60號</SimpleData>
+		<SimpleData name="X">311608.923</SimpleData>
+		<SimpleData name="Y">2773741.364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.610694135305,25.0706437838507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">內湖國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">內湖路2段41號</SimpleData>
+		<SimpleData name="X">308529.624</SimpleData>
+		<SimpleData name="Y">2774664.424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.580211335127,25.0790994305985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">碧湖國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">金龍路100號</SimpleData>
+		<SimpleData name="X">309625.81</SimpleData>
+		<SimpleData name="Y">2775356.191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.591107500096,25.085301687844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">潭美國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">新明路22號</SimpleData>
+		<SimpleData name="X">309605.248</SimpleData>
+		<SimpleData name="Y">2772658.898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.59078682235,25.060951846479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">東湖國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">東湖路115號</SimpleData>
+		<SimpleData name="X">312123.29</SimpleData>
+		<SimpleData name="Y">2773510.685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.615782117892,25.0685402050481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">西湖國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">環山路1段25號</SimpleData>
+		<SimpleData name="X">307061.475</SimpleData>
+		<SimpleData name="Y">2775178.825</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.56567930299,25.083799541567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">康寧國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">星雲街121號</SimpleData>
+		<SimpleData name="X">310015.458</SimpleData>
+		<SimpleData name="Y">2774774.39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.594944768507,25.0800338716779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">明湖國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">康寧路3段105號</SimpleData>
+		<SimpleData name="X">311596.27</SimpleData>
+		<SimpleData name="Y">2773791.672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.610570970732,25.0710984693635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">麗山國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">港華街100號</SimpleData>
+		<SimpleData name="X">307746.549</SimpleData>
+		<SimpleData name="Y">2775149.581</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.57246929449,25.0835094888178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">新湖國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">民權東路6段138號</SimpleData>
+		<SimpleData name="X">309392.821</SimpleData>
+		<SimpleData name="Y">2773530.345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.588719005093,25.0688274790531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">南湖國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">康寧路3段200號</SimpleData>
+		<SimpleData name="X">311726.169</SimpleData>
+		<SimpleData name="Y">2773458.664</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.611843596521,25.0680868448158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">文湖國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">文湖街15號</SimpleData>
+		<SimpleData name="X">306500.888</SimpleData>
+		<SimpleData name="Y">2775401.613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.560131284776,25.0858319167873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">麗湖國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">金湖路363巷8號</SimpleData>
+		<SimpleData name="X">310657.806</SimpleData>
+		<SimpleData name="Y">2774006.353</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.601278348466,25.0730745329431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">達人女中（附設國民中學）周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">內湖路2段314號</SimpleData>
+		<SimpleData name="X">309276.974</SimpleData>
+		<SimpleData name="Y">2774906.709</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.587630043138,25.0812575870204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">內湖區</SimpleData>
+		<SimpleData name="SITE">文德女中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">成功路3段70號</SimpleData>
+		<SimpleData name="X">309492.991</SimpleData>
+		<SimpleData name="Y">2774499.849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.589753796399,25.0775760397279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">士林官邸正館</SimpleData>
+		<SimpleData name="ADDRESS">福林路60號</SimpleData>
+		<SimpleData name="X">303482.672</SimpleData>
+		<SimpleData name="Y">2776359.246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.530247977104,25.0945872431091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">社子國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">延平北路6段308號</SimpleData>
+		<SimpleData name="X">300730.466</SimpleData>
+		<SimpleData name="Y">2775818.774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.502942443795,25.0898029209619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">士林運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">士商路1號</SimpleData>
+		<SimpleData name="X">302595.252</SimpleData>
+		<SimpleData name="Y">2775773.923</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.521427644737,25.0893341935267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">雨聲國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">至誠路1段62巷70號</SimpleData>
+		<SimpleData name="X">303982.195</SimpleData>
+		<SimpleData name="Y">2777257.766</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.535235571202,25.1026811788733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">士林國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中正路345號</SimpleData>
+		<SimpleData name="X">302708.503</SimpleData>
+		<SimpleData name="Y">2776330.011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.522571697791,25.094350547181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">臺北市立兒童新樂園之大門前廣場及第二出入口周邊戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">承德路5段55號</SimpleData>
+		<SimpleData name="X">301859.944</SimpleData>
+		<SimpleData name="Y">2776601.967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.514169300294,25.0968351340823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">陽明高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中正路510號</SimpleData>
+		<SimpleData name="X">302168.313</SimpleData>
+		<SimpleData name="Y">2776051.065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.517205639224,25.0918510184883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">天母國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">天玉街12號</SimpleData>
+		<SimpleData name="X">303190.235</SimpleData>
+		<SimpleData name="Y">2779143.804</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.527456577985,25.119736200132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">蘭雅國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">忠誠路2段51號</SimpleData>
+		<SimpleData name="X">303557.416</SimpleData>
+		<SimpleData name="Y">2778131.266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.531058074834,25.1105821562617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">臺北市5個捷運車站出口周邊戶外區域-捷運士林站1號及2號出口旁</SimpleData>
+		<SimpleData name="ADDRESS">福德路1號</SimpleData>
+		<SimpleData name="X">303083.849</SimpleData>
+		<SimpleData name="Y">2776110.894</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.526284431566,25.0923592291976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">台北美國學校周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中山北路6段800號</SimpleData>
+		<SimpleData name="X">303401.097</SimpleData>
+		<SimpleData name="Y">2778877.677</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.529537149766,25.1173261908251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">百齡高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">承德路4段177號</SimpleData>
+		<SimpleData name="X">302764.893</SimpleData>
+		<SimpleData name="Y">2775511.401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.523099329792,25.0869582521053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">士林高商</SimpleData>
+		<SimpleData name="ADDRESS">士商路150號</SimpleData>
+		<SimpleData name="X">302080.369</SimpleData>
+		<SimpleData name="Y">2776398.686</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.516346946978,25.0949923432427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">至善國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">至善路2段360號</SimpleData>
+		<SimpleData name="X">306023.278</SimpleData>
+		<SimpleData name="Y">2777364.085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.555476587263,25.1035665996301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">格致國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">仰德大道4段75號</SimpleData>
+		<SimpleData name="X">305136.608</SimpleData>
+		<SimpleData name="Y">2780411.38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.546807878728,25.1311097169385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">福安國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">延平北路7段250號</SimpleData>
+		<SimpleData name="X">299156.924</SimpleData>
+		<SimpleData name="Y">2777313.856</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.487396261918,25.1033524857877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">天母國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">天母東路120號</SimpleData>
+		<SimpleData name="X">304270.573</SimpleData>
+		<SimpleData name="Y">2778952.873</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.538161742033,25.1179740026943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">士林國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">大東路165號</SimpleData>
+		<SimpleData name="X">302961.498</SimpleData>
+		<SimpleData name="Y">2776162.962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.525073464514,25.0928335911748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">士東國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中山北路6段392號</SimpleData>
+		<SimpleData name="X">303128.482</SimpleData>
+		<SimpleData name="Y">2778394.913</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.526815247022,25.1129774961018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">福林國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">福志路75號</SimpleData>
+		<SimpleData name="X">303424.554</SimpleData>
+		<SimpleData name="Y">2776813.596</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.529689455311,25.0986911176693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">陽明國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">仰德大道3段61號</SimpleData>
+		<SimpleData name="X">305745.176</SimpleData>
+		<SimpleData name="Y">2779110.655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.552790183344,25.1193446295946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">富安國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">延平北路8段135號</SimpleData>
+		<SimpleData name="X">298656.047</SimpleData>
+		<SimpleData name="Y">2777590.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.482439936427,25.1058626350308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">劍潭國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">通河街16號</SimpleData>
+		<SimpleData name="X">302752.844</SimpleData>
+		<SimpleData name="Y">2774735.843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52295013234,25.0799570103373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">溪山國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">至善路3段199號</SimpleData>
+		<SimpleData name="X">308450.418</SimpleData>
+		<SimpleData name="Y">2779171.502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.579617915084,25.1197914874131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">百齡國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">福港街205號</SimpleData>
+		<SimpleData name="X">302233.177</SimpleData>
+		<SimpleData name="Y">2775426.029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.517824944172,25.0862060102913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">葫蘆國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">環河北路3段95號</SimpleData>
+		<SimpleData name="X">301145.002</SimpleData>
+		<SimpleData name="Y">2775150.787</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.507027184737,25.0837583990642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">雨農國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">忠義街1號</SimpleData>
+		<SimpleData name="X">303446.027</SimpleData>
+		<SimpleData name="Y">2777544.691</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.529930788286,25.1052905885519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">文昌國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">文林路615巷20號</SimpleData>
+		<SimpleData name="X">302538.163</SimpleData>
+		<SimpleData name="Y">2776912.616</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.520905212711,25.0996161800875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">芝山國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">德行東路285號</SimpleData>
+		<SimpleData name="X">304099.255</SimpleData>
+		<SimpleData name="Y">2778111.674</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.53642981884,25.1103859442604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">蘭雅國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">磺溪街57號</SimpleData>
+		<SimpleData name="X">302760.486</SimpleData>
+		<SimpleData name="Y">2777887.237</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.523146860588,25.108407182736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">三玉國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">天母東路116號</SimpleData>
+		<SimpleData name="X">304185.946</SimpleData>
+		<SimpleData name="Y">2778954.892</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.537322666584,25.1179952737175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">啟智學校周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">忠誠路2段207巷3號</SimpleData>
+		<SimpleData name="X">304089.81</SimpleData>
+		<SimpleData name="Y">2778794.508</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.536363069074,25.1165508041861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">啟明學校周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">忠誠路2段207巷1號</SimpleData>
+		<SimpleData name="X">303974.855</SimpleData>
+		<SimpleData name="Y">2778793.411</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.535223153393,25.1165450200695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">華興高中（附設國民中小學）周邊人行道     </SimpleData>
+		<SimpleData name="ADDRESS">仰德大道1段101號</SimpleData>
+		<SimpleData name="X">304281.157</SimpleData>
+		<SimpleData name="Y">2777471.952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.538208151422,25.104604093067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">泰北高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">福林路240號</SimpleData>
+		<SimpleData name="X">303863.522</SimpleData>
+		<SimpleData name="Y">2776679.823</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.534036307475,25.0974678276483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">士林區</SimpleData>
+		<SimpleData name="SITE">衛理女中（附設國民中學）周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">至善路2段321號</SimpleData>
+		<SimpleData name="X">305700.166</SimpleData>
+		<SimpleData name="Y">2777158.723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.552264689967,25.1017245887851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">北投國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中央北路1段73號</SimpleData>
+		<SimpleData name="X">300445.058</SimpleData>
+		<SimpleData name="Y">2780734.025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.500293566733,25.134186884268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">清江國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">公館路220號</SimpleData>
+		<SimpleData name="X">301183.727</SimpleData>
+		<SimpleData name="Y">2779929.844</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.507589153708,25.1269019305086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">北投運動中心戶外區域</SimpleData>
+		<SimpleData name="ADDRESS">石牌路1段39巷100號</SimpleData>
+		<SimpleData name="X">301396.243</SimpleData>
+		<SimpleData name="Y">2778760.275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.509652809537,25.116335974125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">關渡國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中央北路4段581號</SimpleData>
+		<SimpleData name="X">297075.264</SimpleData>
+		<SimpleData name="Y">2779910.624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.466845970929,25.1268623455002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">北投國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">溫泉路62號</SimpleData>
+		<SimpleData name="X">300842.124</SimpleData>
+		<SimpleData name="Y">2780767.071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.504232610879,25.1344718720007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">國立臺北護理健康大學周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">明德路365號</SimpleData>
+		<SimpleData name="X">302575.025</SimpleData>
+		<SimpleData name="Y">2778899.143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.521346728252,25.11754901432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">關渡國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">知行路212號</SimpleData>
+		<SimpleData name="X">297129.525</SimpleData>
+		<SimpleData name="Y">2779138.952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.467357561306,25.1198940480706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">臺北市5個捷運車站出口周邊戶外區域-捷運石牌站1號及2號出口旁</SimpleData>
+		<SimpleData name="ADDRESS">石牌路1段200號</SimpleData>
+		<SimpleData name="X">301957.784</SimpleData>
+		<SimpleData name="Y">2778614.933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515215456233,25.1150045990796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">復興高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">復興四路70號</SimpleData>
+		<SimpleData name="X">300593.534</SimpleData>
+		<SimpleData name="Y">2781788.831</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.501804968211,25.1437045527429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">中正高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">文林北路77號</SimpleData>
+		<SimpleData name="X">302098.438</SimpleData>
+		<SimpleData name="Y">2777451.537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.516566006004,25.1044967457284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">新民國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">新民路10號</SimpleData>
+		<SimpleData name="X">301074.108</SimpleData>
+		<SimpleData name="Y">2781256.057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.506551480344,25.1388785236087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">明德國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">明德路50號</SimpleData>
+		<SimpleData name="X">302273.725</SimpleData>
+		<SimpleData name="Y">2777791.477</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.518316891408,25.1075596206912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">桃源國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">中央北路4段48號</SimpleData>
+		<SimpleData name="X">298131.039</SimpleData>
+		<SimpleData name="Y">2780782.927</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.477346428017,25.1347040698095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">石牌國中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">石牌路1段139號</SimpleData>
+		<SimpleData name="X">301856.308</SimpleData>
+		<SimpleData name="Y">2778604.764</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.514208864111,25.1149162877276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">逸仙國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">新民路2號</SimpleData>
+		<SimpleData name="X">300937.676</SimpleData>
+		<SimpleData name="Y">2781189.969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.505195938315,25.1382865101786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">石牌國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">致遠二路80號</SimpleData>
+		<SimpleData name="X">301607.456</SimpleData>
+		<SimpleData name="Y">2778689.469</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.511744501524,25.115689531734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">文林國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">文林北路155號</SimpleData>
+		<SimpleData name="X">301913.32</SimpleData>
+		<SimpleData name="Y">2777609.492</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.514736553779,25.1059291273795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">義方國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">珠海路155號</SimpleData>
+		<SimpleData name="X">301347.303</SimpleData>
+		<SimpleData name="Y">2781606.941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.509274077151,25.142036964884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">立農國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">立農街1段250號</SimpleData>
+		<SimpleData name="X">300956.734</SimpleData>
+		<SimpleData name="Y">2779105.752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.505307532069,25.1194698186516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">明德國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">明德路190號</SimpleData>
+		<SimpleData name="X">302622.971</SimpleData>
+		<SimpleData name="Y">2778300.385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.521799206627,25.1121418340801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">文化國小周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">文化三路1號</SimpleData>
+		<SimpleData name="X">300079.285</SimpleData>
+		<SimpleData name="Y">2781054.246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.496677780679,25.1370900027876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">薇閣高中（附設國民中小學）周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">育仁路106號</SimpleData>
+		<SimpleData name="X">300502.685</SimpleData>
+		<SimpleData name="Y">2780954.273</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.500873181377,25.1361733243643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">十信高中周邊人行道</SimpleData>
+		<SimpleData name="ADDRESS">北投路2段55號</SimpleData>
+		<SimpleData name="X">300085.184</SimpleData>
+		<SimpleData name="Y">2780670.137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.496722256015,25.1336221177436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#G97_A_HANOSMOKING_M">
+		<SimpleData name="DISTRICT">北投區</SimpleData>
+		<SimpleData name="SITE">奎山高中（附設國民中小學）周邊人行道 </SimpleData>
+		<SimpleData name="ADDRESS">明德路200號</SimpleData>
+		<SimpleData name="X">302649.329</SimpleData>
+		<SimpleData name="Y">2778392.333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.522064084571,25.1129710086641</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

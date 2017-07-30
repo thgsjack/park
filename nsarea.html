@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=7,IE=9">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no">
+<title>臺北市禁菸場所</title>
+<link rel="stylesheet" href="//maps.taipei/arcgis_js_api/library/3.20/3.20/dijit/themes/tundra/tundra.css">
+<link rel="stylesheet" type="text/css" href="//maps.taipei/arcgis_js_api/library/3.20/3.20/esri/css/esri.css">
+<style>
+body,
+html,
+#mapDiv {
+    font: normal 14px/normal 微軟正黑體, Arial;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+</style>
+<link rel="stylesheet" href="https://js.arcgis.com/4.4/esri/css/main.css">
+<script src="https://js.arcgis.com/4.4/"></script>
+<script src="js/jquery-1.11.3.js"></script>
+<script src="./js/vendor/terraformer/terraformer.min.js"></script>
+<script src="./js/vendor/terraformer-arcgis-parser/terraformer-arcgis-parser.min.js"></script>
+<script>
+    var map, geoJsonLayer;
+    require(["esri/Map", "./js/src/geojsonlayer.js",
+        "esri/widgets/Popup", "esri/PopupTemplate", "esri/symbols/SimpleMarkerSymbol", "esri/symbols/PictureMarkerSymbol", "esri/Color",
+        "esri/widgets/ScaleBar", "esri/layers/WMTSLayer", "esri/renderers/SimpleRenderer",
+        "dojo/dom-construct", "dojo/on", "dojo/dom", "dojo/domReady!"],
+      function (Map, GeoJsonLayer,
+        Popup, PopupTemplate, SimpleMarkerSymbol, PictureMarkerSymbol, Color,
+        Scalebar, WMTSLayer,  SimpleRenderer,
+        domConstruct, on, dom) {
+
+        esriConfig.defaults.io.proxyUrl = "//maps.taipei/proxy/proxy.ashx";
+
+        map = new Map("mapDiv", {
+            center: [121.563641, 25.037506],
+            zoom: 15,
+            logo: false,
+            infoWindow: new Popup({
+                markerSymbol: new SimpleMarkerSymbol("circle", 26, null, new Color([50, 180, 230, 0.75])),
+            }, domConstruct.create("div"))
+        });
+
+        var scalebar = new Scalebar({
+            map: map,
+            attachTo: "bottom-left",
+            scalebarStyle: "ruler",
+            scalebarUnit: "metric"
+        });
+		
+		wmts_taipeiMap = new WMTSLayer({
+			url: "//maps.taipei/wmts",
+			copyright: "<a target='_top' href='https://earthdata.nasa.gov'>Earthdata</a> by <a target='_top' href='https://www.nasa.gov'>NASA</a>",
+			activeLayer: {
+			  id: "wmts_taipeiMap",
+			}
+		  });
+		
+        
+        map.addLayer(wmts_taipeiMap);
+
+        map.on("load", function () {
+            addGeoJsonLayer("./data/G97_A_HANOSMOKING_M.json");
+        });
+
+        function addGeoJsonLayer(url) {
+            var symbol = new PictureMarkerSymbol({
+                "url": "./img/no-smoking_48.png",
+                "height": 24,
+                "width": 24,
+                "type": "esriPMS"
+            });
+            var renderer = new SimpleRenderer(symbol);
+            var info_iconSample = new PopupTemplate({
+                title: "禁菸場所",
+                fieldInfos: [{
+                    fieldName: "DISTRICT",
+                    visible: true,
+                    label: "區名"
+                }, {
+                    fieldName: "SITE",
+                    visible: true,
+                    label: "位置"
+                }, {
+                    fieldName: "ADDRESS",
+                    visible: true,
+                    label: "地址"
+                }],
+                showAttachments: false
+            });
+            geoJsonLayer = new GeoJsonLayer({
+                url: url,
+                infoTemplate: info_iconSample,
+                renderer: renderer
+            });
+            map.addLayer(geoJsonLayer);
+        }
+    });
+</script>
+</head>
+<body>
+    <div id="mapDiv"></div>
+</body>
+</html>

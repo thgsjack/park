@@ -1,0 +1,99 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": 
+{
+    "profile_img": "<img src='park_img/1/profile_img.png'></img>",
+    "district": "中山區2",
+    "address": "民權東路建國北路交叉口",
+    "trafficInfo_metro": "捷運中和新蘆線「行天宮站」步行850公尺",
+    "trafficInfo_bus": "建國北路榮星花園(298、紅50)\n民權建國路口\n(首都客運紅32\n三重客運225\n東南客運紅29不經三總\n大都會客運5\n三重客運紅31\n大都會客運74\n大都會客運685經吉林\n大都會客運688\n新店客運松江新生幹線\n大都會客運敦化幹線\n三重客運617不經三總\n中興巴士214\n中興巴士214直\n大都會客運63\n大都會客運49\n三重客運內科18(內科-捷民權西)\n三重客運225區)",
+    "traffic_self": "中山高圓山交流道下往建國北路至與民權東路交叉口",
+    "featrue": "以全年齡層親子共玩及無障礙為設計主軸，讓各式各樣身心能力狀況的孩童都能進入遊戲場，互動交友及安全活動。\n為了不讓老舊磨石溜滑梯消失成為歷史，公園處團隊激發腦力，除了改善至合乎安全規定外，還加入許多新穎巧思。兒童遊戲場更結合了沙坑、攀爬網及爬坡繩索，孩童不會只侷限在現成模組套裝遊戲設施，更能順應他們與生俱來的天馬行空，在沙坑完成各式各樣的創意想像。",
+    "target": "2-12歲兒童",
+    "instrument": "沙坑遊戲版X2\n環型天梯無障礙上肢設施X1旋轉椅X1",
+    "instrument_img": "<div>1.沙坑遊戲版:結合沙坑設置，透過遊戲板增添沙坑的趣味度，並讓兒童開發各式玩法。</div><img src='park_img/1/1.png'></img><div>2.環型天梯無障礙上肢設施:為攀爬設施的1種，可用於鍛鍊人體上肢部位。</div><img src='park_img/1/2.png'></img><div>3.旋轉椅:透過旋轉及陷入座椅的特色，給兒童不同的感受</div><img src='park_img/1/3.png'></img>",
+    "instrument_img_name": "沙坑遊戲版\n環型天梯無障礙上肢設施\n旋轉椅",
+    "instrument_img_intro": "沙坑遊戲版\n環型天梯無障礙上肢設施\n旋轉椅",
+    "instrument_intro": "1.沙坑遊戲版:結合沙坑設置，透過遊戲板增添沙坑的趣味度，並讓兒童開發各式玩法。\n2.環型天梯無障礙上肢設施:為攀爬設施的1種，可用於鍛鍊人體上肢部位。\n3.旋轉椅:透過旋轉及陷入座椅的特色，給兒童不同的感受",
+    "shield": "有",
+    "restRegion": "有",
+    "cleanRegion": "有",
+    "openTime": "00:00~24:00",
+    "handicapFree_toilet": "有",
+    "handicapFree_parking": "有(榮星花園地下停車場5格)",
+    "wheelchairRegion": "有",
+    "feedingRoom": "有",
+    "nurseryRoom": "有",
+    "hospital_nearby": "台北市立聯合醫院中山門診部",
+    "administration": "臺北市政府工務局公園路燈工程管理處圓山公園管理所",
+    "contact": 25850192,
+    "enableDate": 106.1
+  }, "geometry": { "type": "Point", "coordinates": [ 121.530000, 25.033522  ] } 
+
+},
+{ "type": "Feature", "properties": 
+{
+    "profile_img": "",
+    "district": "內湖區",
+    "address": "內湖路二段175號，國立臺灣戲曲學院旁",
+    "trafficInfo_metro": "捷運文湖線「文德站」步行400公尺",
+    "trafficInfo_bus": "內湖路二段臺灣戲曲學院站步行250公尺\n(首都客運21\n欣欣客運278不經三總\n東南客運552\n指南客運28\n光華巴士267\n光華巴士553\n光華巴士247區\n光華巴士247)",
+    "traffic_self": "中山高內湖交流道下往內湖方向接成功路，左轉文德路至文德捷運站右轉文德路101巷直行即是",
+    "featrue": "碧湖公園兒童遊戲場，是以造型船為主題，分別設立船首及船尾，中間以大型沙坑串聯，並於沙坑中央架設攀爬塔，塑造船桅之意象。另架設了三組不同種類的鞦韆，有一般型鞦韆、適合親子共乘的鳥巢鞦韆與無障礙式的座椅鞦韆，以期能讓所有的使用者都能享受到擺盪之樂趣。",
+    "target": "2-12歲兒童",
+    "instrument": "親子鞦韆X1\n鳥巢鞦韆X1",
+    "instrument_img": "",
+    "instrument_img_name": "親子鞦韆、鳥巢鞦韆",
+    "instrument_img_intro": "親子鞦韆、鳥巢鞦韆",
+    "instrument_intro": "1.親子鞦韆:可親子一同遊玩，並為無障礙座椅式鞦韆，設有安全扣環。\n2.鳥巢鞦韆:可多人共同遊玩(含身障兒童)，一同享受擺盪的樂趣。",
+    "shield": "有",
+    "restRegion": "有",
+    "cleanRegion": "有",
+    "openTime": "00:00~24:00",
+    "handicapFree_toilet": "有",
+    "handicapFree_parking": "無(公園內無設置停車場，周邊設有無障礙停車格)",
+    "wheelchairRegion": "有",
+    "feedingRoom": "無",
+    "nurseryRoom": "無",
+    "hospital_nearby": "三軍總醫院內湖院區",
+    "administration": "臺北市政府工務局公園路燈工程管理處花卉試驗中心",
+    "contact": 28616361,
+    "enableDate": 106.1
+  }, "geometry": { "type": "Point", "coordinates": [ 121.535000, 25.033522  ] } 
+
+},
+{ "type": "Feature", "properties": 
+{
+    "profile_img": "",
+    "district": "南港區",
+    "address": "南港區研究路2段12巷58弄",
+    "trafficInfo_metro": "捷運土城南港線「南港展覽館站」轉公車306、270至圓拱橋站步行300公尺",
+    "trafficInfo_bus": "研究院路二段圓拱橋站步行300公尺(大有巴士212\n大有巴士212直\n大有巴士212區\n大有巴士藍25\n三重客運645不經三總\n三重客運645副不經三總\n東南客運小1\n東南客運小12往富德公墓\n東南客運小12區\n東南客運小5(光明寺)\n東南客運小5區\n光華巴士620\n大都會客運270假日\n大都會客運270區\n臺北客運205\n三重客運306(三重)\n大都會客運276\n大都會客運306區\n指南客運679\n大有巴士212夜\n指南客運679區)",
+    "traffic_self": "3號高速公路南港交流道下接橫科路直行至研究路二段左轉，見研究路二段12巷右轉直行即是",
+    "featrue": "中研公園遊戲場除了改善小朋友最愛的溜滑梯外，更加入許多的創意和巧思，如可讓親子共乘的大隻搖搖馬、圓盤型盪鞦韆，旋轉飛輪及旋轉椅滿足了大小朋友愛冒險想挑戰的心理，另外還新設了沙坑並設置了玩沙設備，更值得一提的是，黑麻麻的彈性地墊已看不見，取而代之的是仿真度極高的人工草皮，整個遊樂場雖佔地不大但卻很豐富，不只小朋友愛玩，連阿公、阿媽也一起來重溫騎乘搖搖馬及坐盪鞦韆的樂趣，非常適合親子共遊。",
+    "target": "2-12歲兒童",
+    "instrument": "沙坑遊戲桌X1\n旋轉飛輪X1\n旋轉椅X1\n鳥巢鞦韆X1",
+    "instrument_img": "",
+    "instrument_img_name": "沙坑遊戲桌\n旋轉飛輪\n旋轉椅\n鳥巢鞦韆",
+    "instrument_img_intro": "沙坑遊戲桌\n旋轉飛輪\n旋轉椅\n鳥巢鞦韆",
+    "instrument_intro": "1.沙坑遊戲桌:結合沙坑設置，透過遊戲增添沙坑的趣味度，並讓兒童開發各式玩法。\n2.旋轉飛輪:透過旋轉及高低起伏帶給兒童不同的刺激，並且可多人共同遊玩\n3.旋轉椅:透過旋轉及陷入座椅的特色，給兒童不同的感受。\n4.鳥巢鞦韆:可多人共同遊玩(含身障兒童)，一同享受擺盪的樂趣。",
+    "shield": "無",
+    "restRegion": "有",
+    "cleanRegion": "有",
+    "openTime": "00:00~24:00",
+    "handicapFree_toilet": "無",
+    "handicapFree_parking": "無(公園內無設置停車場，周邊設有無障礙停車格)",
+    "wheelchairRegion": "有",
+    "feedingRoom": "無",
+    "nurseryRoom": "無",
+    "hospital_nearby": "臺北市立聯合醫院忠孝院區",
+    "administration": "臺北市政府工務局公園路燈工程管理處南港公園管理所",
+    "contact": 27884255,
+    "enableDate": 106.1
+  }, "geometry": { "type": "Point", "coordinates": [ 121.532000, 25.033522  ] } 
+
+},
+]
+}

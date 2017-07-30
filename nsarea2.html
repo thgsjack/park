@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=7,IE=9">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no">
+<title>臺北市禁菸場所</title>
+<link rel="stylesheet" href="//maps.taipei/arcgis_js_api/library/3.20/3.20/dijit/themes/tundra/tundra.css">
+<link rel="stylesheet" type="text/css" href="//maps.taipei/arcgis_js_api/library/3.20/3.20/esri/css/esri.css">
+<style>
+body,
+html,
+#mapDiv {
+    font: normal 14px/normal 微軟正黑體, Arial;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+</style>
+<script src="//maps.taipei/arcgis_js_api/library/3.20/3.20/init.js"></script>
+<script src="js/jquery-1.11.3.js"></script>
+<script src="./js/vendor/terraformer/terraformer.min.js"></script>
+<script src="./js/vendor/terraformer-arcgis-parser/terraformer-arcgis-parser.min.js"></script>
+<script>
+    var map, geoJsonLayer;
+    require(["esri/map", "./js/src/geojsonlayer.js",
+        "esri/dijit/Popup", "esri/dijit/PopupTemplate", "esri/symbols/SimpleMarkerSymbol", "esri/symbols/PictureMarkerSymbol", "esri/Color",
+        "esri/dijit/Scalebar", "esri/layers/WMTSLayer", "esri/layers/WMTSLayerInfo", "esri/renderers/SimpleRenderer",
+        "dojo/dom-construct", "dojo/on", "dojo/dom", "dojo/domReady!"],
+      function (Map, GeoJsonLayer,
+        Popup, PopupTemplate, SimpleMarkerSymbol, PictureMarkerSymbol, Color,
+        Scalebar, WMTSLayer, WMTSLayerInfo, SimpleRenderer,
+        domConstruct, on, dom) {
+
+        esriConfig.defaults.io.proxyUrl = "//maps.taipei/proxy/proxy.ashx";
+
+        map = new Map("mapDiv", {
+            center: [121.563641, 25.037506],
+            zoom: 15,
+            logo: false,
+            infoWindow: new Popup({
+                markerSymbol: new SimpleMarkerSymbol("circle", 26, null, new Color([50, 180, 230, 0.75])),
+            }, domConstruct.create("div"))
+        });
+
+        var scalebar = new Scalebar({
+            map: map,
+            attachTo: "bottom-left",
+            scalebarStyle: "ruler",
+            scalebarUnit: "metric"
+        });
+
+        wmts_taipeiMap = new WMTSLayer("//maps.taipei/wmts", {
+            id: "wmts_taipeiMap",
+            serviceMode: "KVP",
+            layerInfo: new WMTSLayerInfo({
+                identifier: "TAIPEI_MAP",
+                tileMatrixSet: "GoogleMapsCompatible",
+                format: "png"
+            })
+        });
+        map.addLayer(wmts_taipeiMap);
+
+        map.on("load", function () {
+            addGeoJsonLayer("./data/G97_A_HANOSMOKING_M.json");
+        });
+		map.infoWindow.resize(450, 200);
+        function addGeoJsonLayer(url) {
+            var symbol = new PictureMarkerSymbol({
+                "url": "./img/park_48.png",
+                "height": 24,
+                "width": 24,
+                "type": "esriPMS"
+            });
+            var renderer = new SimpleRenderer(symbol);
+			
+            var info_iconSample = new PopupTemplate({
+                title: "共融遊樂場所",				
+                fieldInfos: [{
+    "fieldName": "profile_img",
+    "visible": "TRUE",
+    "label": "遊戲場代表照片"
+  }, {
+    "fieldName": "district",
+    "visible": "TRUE",
+    "label": "行政區"
+  },
+  {
+    "fieldName": "address",
+    "visible": "TRUE",
+    "label": "地址"
+  },
+  {
+    "fieldName": "trafficInfo_metro",
+    "visible": "TRUE",
+    "label": "(交通資訊)捷運"
+  },
+  {
+    "fieldName": "trafficInfo_bus",
+    "visible": "TRUE",
+    "label": "(交通資訊)公車"
+  },
+  {
+    "fieldName": "traffic_self",
+    "visible": "TRUE",
+    "label": "(交通資訊)自行駕車"
+  },
+  {
+    "fieldName": "featrue",
+    "visible": "TRUE",
+    "label": "遊戲場特色"
+  },
+  {
+    "fieldName": "target",
+    "visible": "TRUE",
+    "label": "適用對象"
+  },
+  {
+    "fieldName": "instrument",
+    "visible": "TRUE",
+    "label": "遊具設施內容、數量"
+  },
+  {
+    "fieldName": "instrument_img",
+    "visible": "TRUE",
+    "label": "遊具設施照片"
+  },
+  {
+    "fieldName": "instrument_img_name",
+    "visible": "TRUE",
+    "label": "遊具設施照片檔案名稱"
+  },
+  {
+    "fieldName": "instrument_img_intro",
+    "visible": "TRUE",
+    "label": "遊具設施照片說明"
+  },
+  {
+    "fieldName": "instrument_intro",
+    "visible": "TRUE",
+    "label": "遊具設施相關說明"
+  },
+  {
+    "fieldName": "shield",
+    "visible": "TRUE",
+    "label": "遮陽設施\n(有/無)"
+  },
+  {
+    "fieldName": "restRegion",
+    "visible": "TRUE",
+    "label": "休息區\n(有/無)"
+  },
+  {
+    "fieldName": "cleanRegion",
+    "visible": "TRUE",
+    "label": "沖洗區\n(有/無)"
+  },
+  {
+    "fieldName": "openTime",
+    "visible": "TRUE",
+    "label": "對外開放時間"
+  },
+  {
+    "fieldName": "handicapFree_toilet",
+    "visible": "TRUE",
+    "label": "無障礙廁所"
+  },
+  {
+    "fieldName": "handicapFree_parking",
+    "visible": "TRUE",
+    "label": "無障礙停車位"
+  },
+  {
+    "fieldName": "wheelchairRegion",
+    "visible": "TRUE",
+    "label": "輪椅推車停放區\n(有/無)"
+  },
+  {
+    "fieldName": "feedingRoom",
+    "visible": "TRUE",
+    "label": "哺乳室\n(有/無)"
+  },
+  {
+    "fieldName": "nurseryRoom",
+    "visible": "TRUE",
+    "label": "育嬰室\n(有/無)"
+  },
+  {
+    "fieldName": "hospital_nearby",
+    "visible": "TRUE",
+    "label": "鄰近醫療院所"
+  },
+  {
+    "fieldName": "administration",
+    "visible": "TRUE",
+    "label": "主管機關\n(機關全稱)"
+  },
+  {
+    "fieldName": "contact",
+    "visible": "TRUE",
+    "label": "聯繫窗口"
+  },
+  {
+    "fieldName": "enableDate",
+    "visible": "TRUE",
+    "label": "啟用日期"
+  }],
+                showAttachments: false,
+			mediaInfos: [{
+    "title": "123",
+    "caption": "3456",
+    "type": "image",
+    "value": {
+	"fields":["profile_img"],
+      "sourceURL": "http://a.ecimg.tw/img/xdsys/v3/layout/h24/hp/channel10/ad_595a1d8bb4d23/20170704183448_a1-5-160x75.jpg",
+      "linkURL": ""
+    }
+  }]
+            }
+			);
+            geoJsonLayer = new GeoJsonLayer({
+                url: url,
+                infoTemplate: info_iconSample,
+                renderer: renderer
+            });
+            map.addLayer(geoJsonLayer);
+        }
+    });
+</script>
+</head>
+<body>
+    <div id="mapDiv"></div>
+</body>
+</html>
