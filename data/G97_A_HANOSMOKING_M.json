@@ -95,7 +95,9 @@
   }, "geometry": { "type": "Point", "coordinates": [ 121.532000, 25.033522  ] } 
 
 },
-  {
+,
+{ "type": "Feature", "properties": 
+{
     "id": 4,
     "profile_img": "",
     "district": "士林區",
@@ -123,6 +125,9 @@
     "administration": "臺北市政府工務局公園路燈工程管理處園藝工程隊",
     "contact": "23815132#317",
     "enableDate": 106.4
-  }
+  }, "geometry": { "type": "Point", "coordinates": [ 121.530000, 25.033522  ] } 
+
+}
+  
 ]
 }
