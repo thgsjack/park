@@ -5,7 +5,7 @@
 { "type": "Feature", "properties": 
 {
     "profile_img": "<img src='park_img/1/profile_img.png'></img>",
-    "district": "中山區2",
+    "district": "中山區",
     "address": "民權東路建國北路交叉口",
     "trafficInfo_metro": "捷運中和新蘆線「行天宮站」步行850公尺",
     "trafficInfo_bus": "建國北路榮星花園(298、紅50)\n民權建國路口\n(首都客運紅32\n三重客運225\n東南客運紅29不經三總\n大都會客運5\n三重客運紅31\n大都會客運74\n大都會客運685經吉林\n大都會客運688\n新店客運松江新生幹線\n大都會客運敦化幹線\n三重客運617不經三總\n中興巴士214\n中興巴士214直\n大都會客運63\n大都會客運49\n三重客運內科18(內科-捷民權西)\n三重客運225區)",
@@ -125,7 +125,7 @@
     "administration": "臺北市政府工務局公園路燈工程管理處園藝工程隊",
     "contact": "23815132#317",
     "enableDate": 106.4
-  }, "geometry": { "type": "Point", "coordinates": [ 121.530000, 25.033522  ] } 
+  }, "geometry": { "type": "Point", "coordinates": [ 121.531000, 25.033522  ] } 
 
 }
   
