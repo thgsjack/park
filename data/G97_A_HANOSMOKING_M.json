@@ -95,7 +95,6 @@
   }, "geometry": { "type": "Point", "coordinates": [ 121.532000, 25.033522  ] } 
 
 },
-,
 { "type": "Feature", "properties": 
 {
     "id": 4,
