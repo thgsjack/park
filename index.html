@@ -1,210 +1,172 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=7,IE=9">
-<meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no">
-<title>臺北市共融式遊戲場</title>
-<link rel="stylesheet" href="//maps.taipei/arcgis_js_api/library/3.20/3.20/dijit/themes/tundra/tundra.css">
-<link rel="stylesheet" type="text/css" href="//maps.taipei/arcgis_js_api/library/3.20/3.20/esri/css/esri.css">
-<style>
-body,
-html,
-#mapDiv {
-    font: normal 14px/normal 微軟正黑體, Arial;
-    padding: 0;
-    margin: 0;
-    height: 100%;
-    overflow: hidden;
-}
-</style>
-<script src="//maps.taipei/arcgis_js_api/library/3.20/3.20/init.js"></script>
-<script src="js/jquery-1.11.3.js"></script>
-<script src="./js/vendor/terraformer/terraformer.min.js"></script>
-<script src="./js/vendor/terraformer-arcgis-parser/terraformer-arcgis-parser.min.js"></script>
-<script>
-    var map, geoJsonLayer;
-    require(["esri/map", "./js/src/geojsonlayer.js",
-        "esri/dijit/Popup", "esri/dijit/PopupTemplate", "esri/symbols/SimpleMarkerSymbol", "esri/symbols/PictureMarkerSymbol", "esri/Color",
-        "esri/dijit/Scalebar", "esri/layers/WMTSLayer", "esri/layers/WMTSLayerInfo", "esri/renderers/SimpleRenderer",
-        "dojo/dom-construct", "dojo/on", "dojo/dom", "dojo/domReady!"],
-      function (Map, GeoJsonLayer,
-        Popup, PopupTemplate, SimpleMarkerSymbol, PictureMarkerSymbol, Color,
-        Scalebar, WMTSLayer, WMTSLayerInfo, SimpleRenderer,
-        domConstruct, on, dom) {
-
-        esriConfig.defaults.io.proxyUrl = "http://maps.taipei/proxy/proxy.ashx";
-
-        map = new Map("mapDiv", {
-            center: [121.563641, 25.037506],
-            zoom: 15,
-            logo: false,
-            infoWindow: new Popup({
-                markerSymbol: new SimpleMarkerSymbol("circle", 26, null, new Color([50, 180, 230, 0.75])),
-            }, domConstruct.create("div"))
-        });
-
-        var scalebar = new Scalebar({
-            map: map,
-            attachTo: "bottom-left",
-            scalebarStyle: "ruler",
-            scalebarUnit: "metric"
-        });
-
-        wmts_taipeiMap = new WMTSLayer("http://maps.taipei/wmts", {
-            id: "wmts_taipeiMap",
-            serviceMode: "KVP",
-            layerInfo: new WMTSLayerInfo({
-                identifier: "TAIPEI_MAP",
-                tileMatrixSet: "GoogleMapsCompatible",
-                format: "png"
-            })
-        });
-        map.addLayer(wmts_taipeiMap);
-
-        map.on("load", function () {
-            addGeoJsonLayer("./data/G97_A_HANOSMOKING_M.json");
-        });
-		map.infoWindow.resize(450, 200);
-        function addGeoJsonLayer(url) {
-            var symbol = new PictureMarkerSymbol({
-                "url": "./img/park_48.png",
-                "height": 24,
-                "width": 24,
-                "type": "esriPMS"
-            });
-            var renderer = new SimpleRenderer(symbol);
-			
-            var info_iconSample = new PopupTemplate({
-                title: "共融式遊戲場",				
-                fieldInfos: [{
-    "fieldName": "profile_img",
-    "visible": "TRUE",
-    "label": "遊戲場代表照片"
-  }, {
-    "fieldName": "district",
-    "visible": "TRUE",
-    "label": "行政區"
-  },
-  {
-    "fieldName": "address",
-    "visible": "TRUE",
-    "label": "地址"
-  },
-  {
-    "fieldName": "trafficInfo_metro",
-    "visible": "TRUE",
-    "label": "(交通資訊)捷運"
-  },
-  {
-    "fieldName": "trafficInfo_bus",
-    "visible": "TRUE",
-    "label": "(交通資訊)公車"
-  },
-  {
-    "fieldName": "traffic_self",
-    "visible": "TRUE",
-    "label": "(交通資訊)自行駕車"
-  },
-  {
-    "fieldName": "featrue",
-    "visible": "TRUE",
-    "label": "遊戲場特色"
-  },
-  {
-    "fieldName": "target",
-    "visible": "TRUE",
-    "label": "適用對象"
-  },
-  {
-    "fieldName": "instrument",
-    "visible": "TRUE",
-    "label": "遊具設施內容、數量"
-  },
-  {
-    "fieldName": "instrument_img",
-    "visible": "TRUE",
-    "label": "遊具設施照片"
-  },
-  {
-    "fieldName": "shield",
-    "visible": "TRUE",
-    "label": "遮陽設施\n(有/無)"
-  },
-  {
-    "fieldName": "restRegion",
-    "visible": "TRUE",
-    "label": "休息區\n(有/無)"
-  },
-  {
-    "fieldName": "cleanRegion",
-    "visible": "TRUE",
-    "label": "沖洗區\n(有/無)"
-  },
-  {
-    "fieldName": "openTime",
-    "visible": "TRUE",
-    "label": "對外開放時間"
-  },
-  {
-    "fieldName": "handicapFree_toilet",
-    "visible": "TRUE",
-    "label": "無障礙廁所"
-  },
-  {
-    "fieldName": "handicapFree_parking",
-    "visible": "TRUE",
-    "label": "無障礙停車位"
-  },
-  {
-    "fieldName": "wheelchairRegion",
-    "visible": "TRUE",
-    "label": "輪椅推車停放區\n(有/無)"
-  },
-  {
-    "fieldName": "feedingRoom",
-    "visible": "TRUE",
-    "label": "哺乳室\n(有/無)"
-  },
-  {
-    "fieldName": "nurseryRoom",
-    "visible": "TRUE",
-    "label": "育嬰室\n(有/無)"
-  },
-  {
-    "fieldName": "hospital_nearby",
-    "visible": "TRUE",
-    "label": "鄰近醫療院所"
-  },
-  {
-    "fieldName": "administration",
-    "visible": "TRUE",
-    "label": "主管機關\n(機關全稱)"
-  },
-  {
-    "fieldName": "contact",
-    "visible": "TRUE",
-    "label": "聯繫窗口"
-  },
-  {
-    "fieldName": "enableDate",
-    "visible": "TRUE",
-    "label": "啟用日期"
-  }],
-                showAttachments: false
-            }
-			);
-            geoJsonLayer = new GeoJsonLayer({
-                url: url,
-                infoTemplate: info_iconSample,
-                renderer: renderer
-            });
-            map.addLayer(geoJsonLayer);
-        }
-    });
-</script>
+    <title>臺北市電子地圖</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="臺北市電子地圖網站(maps.taipei)，提供即時市政/生活資訊服務，包括電子地圖、主題圖、介接即時資訊等，與現有平台各服務共用資料來源。">
+    <link href="map/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="map/bootstrap/css/bootstrap-theme.css">
+    <link rel="stylesheet" href="https://maps.taipei/arcgis_js_api/library/3.15/3.15/dijit/themes/tundra/tundra.css">
+    <link rel="stylesheet" type="text/css" href="https://maps.taipei/arcgis_js_api/library/3.15/3.15/esri/css/esri.css">
+    <link rel="stylesheet" href="map/css/style.css">
+	<script src="./js/arcgis_geojsonlayer/vendor/terraformer/terraformer.min.js"></script>
+<script src="./js/arcgis_geojsonlayer/vendor/terraformer-arcgis-parser/terraformer-arcgis-parser.min.js"></script>
 </head>
-<body>
+
+<body class="tundra">
     <div id="mapDiv"></div>
+    <div class="trigCoord"><span class="crosshair"></span></div>
+	<div class="fixed-top" id="tptitle" title="logo" style="font-family: '微軟正黑體';font-size:40px;width:160px;">
+        建築安全
+    </div>
+    <div class="fixed-top" id="sider-toggle" title="切換圖層,依查詢結果進行定位">
+        <img src="map/img/sider.png" alt="主題圖層" />
+    </div>
+    <div class="fixed-top" id="geoloc" title="依GPS定位">
+        <img src="map/img/geoloc.png" alt="進行定位" />
+    </div>
+    <div class="fixed-top" id="tp3d" title="開啟3D台北">
+        <img src="map/img/tp3d.png" alt="開啟3D台北" />
+    </div>
+	
+    <div class="fixed-top" id="searchDiv" title="請輸入門牌 / 道路 / 地標 / 交叉路口&#013;範例：市府路一號&#013;　　　凱達格蘭大道&#013;　　　臺北車站&#013;　　　和平東路,建國南路">
+        <input id="searchInput" placeholder="門牌 / 道路 / 地標 / 路口" />
+        <img id="searchBtn" src="map/img/search.png" alt="定位查詢" />
+    </div>
+    <div class="fixed-top" id="coordDiv">
+        <img id="coordBtn" src="map/img/coord.png" alt="坐標查詢" />
+    </div>
+    <div class="fixed-top" id="dtmDiv">
+        <img id="dtmBtn" src="map/img/dtm.png" alt="坡度坡向查詢" />
+    </div>
+    <div id="sider-body">
+        <div class="tabbable">
+            <ul class="nav nav-tabs">
+                <li class="active"><a id="href_one" href="#one" data-toggle="tab">地圖圖層</a></li>
+                <li><a id="href_two" href="#two" data-toggle="tab">查詢定位</a></li>
+            </ul>
+            <div class="tab-content">
+                <div class="tab-pane active" id="one">
+                    <div data-toggle="collapse" data-target="#one_base"><a class="btnGroup">底　圖 (2)</a></div>
+                    <div id="one_base" class="collapse in">
+                        <div class="btnCntr">
+                            <div class="dataSrc"><img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /></div>
+                            <!-- http://data.taipei/opendata/aboutus -->
+                            <a class="btn" id="lyTaipeiMap">臺北市電子地圖</a>
+                        </div>
+                        <div class="btnCntr">
+                            <div class="dataSrc"><!-- <img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /> --></div>
+                            <a class="btn inv" id="lyUddMap">都發局航測影像</a>
+                        </div>
+						<div class="btnCntr">
+                            <div class="dataSrc"><!-- <img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /> --></div>
+                            <a class="btn inv" id="lyUddMap2">臺北市電子地圖(門牌)</a>
+                        </div>
+                    </div>
+                    
+                    <div data-toggle="collapse" data-target="#one_life"><a class="btnGroup">居住安全</a></div>
+                    <div id="one_life" class="collapse">
+                        <div class="btnCntr">
+                            <div class="dataSrc"><!-- <img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /> --></div>
+                            <a class="btn inv" id="lyTWSTOPWATER">臺北市停水範圍</a>
+                        </div>
+                        <div class="btnCntr">
+                            <div class="dataSrc"><!-- <img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /> --></div>
+                            <a class="btn inv" id="lyHEFLOOD">臺北市歷年積水紀錄圖</a>
+                        </div>
+                        <div class="btnCntr">
+                            <div class="dataSrc"><img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /></div>
+                            <a class="btn inv" id="lySITUATE">即時災情</a>
+                        </div>
+                        <div class="btnCntr">
+                            <div class="dataSrc"><img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /></div>
+                            <a class="btn inv" id="lyFLOOD78">降雨淹水模擬(78.8mm/hr)</a>
+                        </div>
+                        <div class="btnCntr">
+                            <div class="dataSrc"><img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /></div>
+                            <a class="btn inv" id="lyFLOOD100">降雨淹水模擬(100mm/hr)</a>
+                        </div>
+                        <div class="btnCntr">
+                            <div class="dataSrc"><img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /></div>
+                            <a class="btn inv" id="lyFLOOD130">降雨淹水模擬(130mm/hr)</a>
+                        </div>
+						<div class="btnCntr">
+                            <div class="dataSrc"><img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /></div>
+                            <a class="btn inv" id="lySOILhigh">土壤液化(高度液化潛勢區)</a>
+                        </div>
+						<div class="btnCntr">
+                            <div class="dataSrc"><img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /></div>
+                            <a class="btn inv" id="lySOILmed">土壤液化(中度液化潛勢區)</a>
+                        </div>
+						<div class="btnCntr">
+                            <div class="dataSrc"><img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /></div>
+                            <a class="btn inv" id="lySOILlow">土壤液化(低度液化潛勢區)</a>
+                        </div>
+						<div class="btnCntr">
+                            <div class="dataSrc"><img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /></div>
+                            <a class="btn inv" id="">搶救困難狹小巷道</a>
+                        </div>
+						<div class="btnCntr">
+                            <div class="dataSrc"><img class="dataSrcImg" src="map/img/odt.png" alt="資料來源" /></div>
+                            <a class="btn inv" id="">殯葬場</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="two">
+                    <div id="searchResult">
+                        <div class="queryHint">
+                            <p>請利用右上角綜合搜尋功能</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="fixed-bottom">
+        <div class="trigCoord"><p id="coordInfo">( X, Y )</p></div>
+        <span class="related-bottom" id="infoBtn" title="顯示地圖範圍相關資訊">
+            <img data-toggle="collapse" data-target="#footer-body" src="map/img/info.png" alt="地方資訊" />
+        </span>
+        <span class="related-bottom" id="tplogo" title="歡迎使用Maps.Taipei">
+            <img src="map/img/emblem_128.png" alt="maps.taipei" />
+        </span>
+        <div class="navbar-collapse collapse" id="footer-body">
+            <div class="infoCard">
+                <p>平均溫度</p>
+                <p id="avgTempVal">...</p>
+                <p id="avgTempLoc">...</p>
+            </div>
+            <div class="infoCard">
+                <p>降雨機率</p>
+                <p id="resRainVal">...</p>
+                <p id="resRainLoc">...</p>
+            </div>
+            <div class="infoCard">
+                <p>明日白天</p>
+                <p id="tomDayTmp">...</p>
+                <p id="tomDayVal">...</p>
+            </div>
+            <div class="infoCard">
+                <p>明日晚上</p>
+                <p id="tomEveTmp">...</p>
+                <p id="tomEveVal">...</p>
+            </div>
+            <div class="infoCard">
+                <p>紫外線指數</p>
+                <p id="resUVIVal">...</p>
+                <p id="resUVILoc">...</p>
+            </div>
+        </div>
+    </div>
+    
+    <script type="text/javascript" src="map/js/ga.js"></script>
+    <script src="http://maps.taipei/arcgis_js_api/library/3.15/3.15/init.js"></script>
+    <script src="map/js/jquery-1.11.3.js"></script>
+    <script src="map/bootstrap/js/bootstrap.js"></script>
+    <script src="map/js/esrimapie.js"></script>
 </body>
+
 </html>
